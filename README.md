@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=#ADFF2F&height=150&section=header&text=HELLO!👋&fontSize=60)
-<br>
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCY727&show_icons=true&theme=radical)
 <!--
 **LCY727/LCY727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
